@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-handsontodo-dev-161339-authRole",
+      "UnauthRoleArn": "arn:aws:iam::547744343675:role/amplify-handsontodo-dev-161339-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::547744343675:role/amplify-handsontodo-dev-161339-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-handsontodo-dev-161339-deployment",
+      "UnauthRoleName": "amplify-handsontodo-dev-161339-unauthRole",
+      "StackName": "amplify-handsontodo-dev-161339",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:547744343675:stack/amplify-handsontodo-dev-161339/239bb5b0-8fc1-11ec-af75-0e11cb0a4ff9",
+      "AmplifyAppId": "d3k3cpo29x2txo"
+    },
+    "categories": {
+      "auth": {
+        "handsontodof0f3336c": {}
+      }
+    }
+  }
+}
